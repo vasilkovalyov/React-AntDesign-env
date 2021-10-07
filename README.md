@@ -26,5 +26,3 @@ npm run build
 1. [FEATURE] - The current branch got some new functional
 2. [FIX] - You made some fixes to the existing functional
 3. [REFACTORING] - Nothing new, but you changed the way to process data
-
-## Base rules for work with the project
